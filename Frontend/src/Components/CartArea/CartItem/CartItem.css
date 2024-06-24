@@ -1,0 +1,16 @@
+.cart-image-carousel .carousel .control-dots .dot {
+ width: 12px;
+ height: 12px;
+ background: white;
+ border: 2px solid black;
+ margin-top: -5px;
+}
+
+.cart-image-carousel .image-carousel-root img {
+ width: 150px;
+ height: 150px;
+}
+
+.cart-image-carousel .carousel-status {
+ display: none;
+}

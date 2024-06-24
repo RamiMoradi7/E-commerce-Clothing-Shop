@@ -1,0 +1,61 @@
+.image-container {
+ position: relative;
+ width: 220px;
+ height: 170px;
+ overflow: hidden;
+ border: 1px solid #ccc;
+ border-radius: 8px;
+ margin: 0 auto;
+ margin-top: 20px;
+}
+
+.image-preview {
+ width: 100%;
+ height: 100%;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.image-preview img {
+ width: 50%;
+ height: 50%;
+ object-fit: cover;
+}
+
+.image-input-container {
+ position: absolute;
+ top: 0;
+ left: 0;
+ width: 100%;
+ height: 100%;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.upload-label {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ font-size: 14px;
+ color: #333;
+ cursor: pointer;
+}
+
+.upload-icon {
+ margin-right: 4px;
+}
+
+.image-container .image-carousel-root img {
+ width: 200px;
+ height: 200px;
+}
+
+.image-container .carousel .control-dots .dot {
+ width: 16px;
+ height: 16px;
+ background: white;
+ border: 2px solid black;
+ margin-top: 125px;
+}

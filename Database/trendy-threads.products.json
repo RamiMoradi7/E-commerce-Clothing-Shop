@@ -1,0 +1,1995 @@
+[{
+  "_id": {
+    "$oid": "6653369acc1d3b734891c2de"
+  },
+  "categoryId": {
+    "$oid": "6627f18a74bb4c6b31126e72"
+  },
+  "subCategoryId": {
+    "$oid": "663a3a95f4614de90754cc07"
+  },
+  "audienceId": {
+    "$oid": "6637f1cf8f24af95297f49d8"
+  },
+  "brandId": {
+    "$oid": "663960edb85280f81e73c2f9"
+  },
+  "name": "Nike Pegasus 40",
+  "price": 500,
+  "stock": [
+    {
+      "color": {
+        "$oid": "6627fa1b87e562d7c54ae912"
+      },
+      "size": {
+        "$oid": "6635798aaf880da8f7bd660a"
+      },
+      "quantity": 10,
+      "_id": {
+        "$oid": "666881cb0d57942463953aa6"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "6635798caf880da8f7bd660c"
+      },
+      "quantity": 7,
+      "_id": {
+        "$oid": "666881cb0d57942463953aa7"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa2487e562d7c54ae914"
+      },
+      "size": {
+        "$oid": "66357998af880da8f7bd6610"
+      },
+      "quantity": 0,
+      "_id": {
+        "$oid": "666881cb0d57942463953aa8"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa2487e562d7c54ae914"
+      },
+      "size": {
+        "$oid": "6635798aaf880da8f7bd660a"
+      },
+      "quantity": 7,
+      "_id": {
+        "$oid": "666881cb0d57942463953aa9"
+      }
+    }
+  ],
+  "imageNames": [
+    "47540d8b-9519-4fb5-9357-67d6266c26d8.png",
+    "27e549ff-ab7d-477e-95ad-3585e079b18a.png",
+    "31f835b1-d4a1-4e05-8337-3593cadf4f51.png"
+  ],
+  "__t": "Shoe",
+  "sizes": [],
+  "description": "Responsive cushioning provides a springy ride for any run. Experience lighter-weight energy return in this latest version, with a combination of Zoom Air units and React foam. Plus, the redesigned midfoot and upper provide an improved, super-comfortable fit.",
+  "discount": 10
+},
+{
+  "_id": {
+    "$oid": "6653865df1b9c189ee461623"
+  },
+  "categoryId": {
+    "$oid": "6627f15274bb4c6b31126e70"
+  },
+  "subCategoryId": {
+    "$oid": "665385b1f1b9c189ee4615e8"
+  },
+  "audienceId": {
+    "$oid": "6637f1cf8f24af95297f49d8"
+  },
+  "brandId": {
+    "$oid": "663960edb85280f81e73c2f9"
+  },
+  "name": "Nike Sportswear Tech Fleece",
+  "price": 150,
+  "stock": [
+    {
+      "color": {
+        "$oid": "6627fa2487e562d7c54ae914"
+      },
+      "size": {
+        "$oid": "666709e3b527e0041dd8b18b"
+      },
+      "quantity": 0,
+      "_id": {
+        "$oid": "6668ca292a5bbfe8bfad9143"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa1b87e562d7c54ae912"
+      },
+      "size": {
+        "$oid": "666709eeb527e0041dd8b193"
+      },
+      "quantity": 4,
+      "_id": {
+        "$oid": "6668ca292a5bbfe8bfad9144"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709e3b527e0041dd8b18b"
+      },
+      "quantity": 0,
+      "_id": {
+        "$oid": "6668ca292a5bbfe8bfad9145"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666709e7b527e0041dd8b18f"
+      },
+      "quantity": 3,
+      "_id": {
+        "$oid": "6668ca292a5bbfe8bfad9146"
+      }
+    },
+    {
+      "color": {
+        "$oid": "665dfff090fe72c455652b18"
+      },
+      "size": {
+        "$oid": "666709e7b527e0041dd8b18f"
+      },
+      "quantity": 11,
+      "_id": {
+        "$oid": "6668ca292a5bbfe8bfad9147"
+      }
+    }
+  ],
+  "imageNames": [
+    "fff1ce08-66a9-438e-adbd-2db66b091a11.png",
+    "874ebb8d-c882-4606-8d4b-9bfaebd07f93.png",
+    "08cb1901-60fb-4e28-85f5-082bfbc820eb.png"
+  ],
+  "__t": "Cloth",
+  "sizes": [],
+  "description": "Amazing Pants",
+  "discount": 10
+},
+{
+  "_id": {
+    "$oid": "6654e63e625b583a81d595ee"
+  },
+  "categoryId": {
+    "$oid": "6627f15274bb4c6b31126e70"
+  },
+  "subCategoryId": {
+    "$oid": "665385b1f1b9c189ee4615e8"
+  },
+  "audienceId": {
+    "$oid": "6637f1ea8f24af95297f49da"
+  },
+  "brandId": {
+    "$oid": "663960edb85280f81e73c2f9"
+  },
+  "name": "Nike Tights",
+  "price": 189,
+  "stock": [
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666709e3b527e0041dd8b18b"
+      },
+      "quantity": 8,
+      "_id": {
+        "$oid": "666ab61b480cac9ff76db2e1"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666709e5b527e0041dd8b18d"
+      },
+      "quantity": 12,
+      "_id": {
+        "$oid": "666ab61b480cac9ff76db2e2"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709e7b527e0041dd8b18f"
+      },
+      "quantity": 9,
+      "_id": {
+        "$oid": "666ab61b480cac9ff76db2e3"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa1b87e562d7c54ae912"
+      },
+      "size": {
+        "$oid": "666709eab527e0041dd8b191"
+      },
+      "quantity": 6,
+      "_id": {
+        "$oid": "666ab61b480cac9ff76db2e4"
+      }
+    },
+    {
+      "color": {
+        "$oid": "665dffbe90fe72c455652a61"
+      },
+      "size": {
+        "$oid": "666709f6b527e0041dd8b197"
+      },
+      "quantity": 12,
+      "_id": {
+        "$oid": "666ab61b480cac9ff76db2e5"
+      }
+    },
+    {
+      "color": {
+        "$oid": "665dff8190fe72c4556529aa"
+      },
+      "size": {
+        "$oid": "666709eeb527e0041dd8b193"
+      },
+      "quantity": 11,
+      "_id": {
+        "$oid": "666ab61b480cac9ff76db2e6"
+      }
+    }
+  ],
+  "imageNames": [
+    "92ee6375-f37d-4999-8abd-1759e0eadab8.png"
+  ],
+  "__t": "Cloth",
+  "sizes": [],
+  "description": "Nike Amazing Tights",
+  "discount": 0
+},
+{
+  "_id": {
+    "$oid": "665ccf5690fe72c455650dbd"
+  },
+  "categoryId": {
+    "$oid": "6627f15274bb4c6b31126e70"
+  },
+  "subCategoryId": {
+    "$oid": "666879350d579424639530f1"
+  },
+  "audienceId": {
+    "$oid": "6637f1cf8f24af95297f49d8"
+  },
+  "brandId": {
+    "$oid": "663960edb85280f81e73c2f9"
+  },
+  "name": "Nike Sportswear Tech Fleece Windrunner",
+  "price": 250,
+  "discount": 30,
+  "description": "This product is made from at least 50% sustainable materials, using a blend of both recycled polyester and organic cotton fibres. The blend is at least 10% recycled fibres or at least 10% organic cotton fibres.",
+  "stock": [
+    {
+      "color": {
+        "$oid": "6627fa1b87e562d7c54ae912"
+      },
+      "size": {
+        "$oid": "666709e3b527e0041dd8b18b"
+      },
+      "quantity": 13,
+      "_id": {
+        "$oid": "6668caf42a5bbfe8bfad92a1"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa1187e562d7c54ae910"
+      },
+      "size": {
+        "$oid": "666709e5b527e0041dd8b18d"
+      },
+      "quantity": 12,
+      "_id": {
+        "$oid": "6668caf42a5bbfe8bfad92a2"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa1b87e562d7c54ae912"
+      },
+      "size": {
+        "$oid": "666709e7b527e0041dd8b18f"
+      },
+      "quantity": 6,
+      "_id": {
+        "$oid": "6668caf42a5bbfe8bfad92a3"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666709eab527e0041dd8b191"
+      },
+      "quantity": 11,
+      "_id": {
+        "$oid": "6668caf42a5bbfe8bfad92a4"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa1b87e562d7c54ae912"
+      },
+      "size": {
+        "$oid": "666709eeb527e0041dd8b193"
+      },
+      "quantity": 9,
+      "_id": {
+        "$oid": "6668caf42a5bbfe8bfad92a5"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa1187e562d7c54ae910"
+      },
+      "size": {
+        "$oid": "666709f6b527e0041dd8b197"
+      },
+      "quantity": 8,
+      "_id": {
+        "$oid": "6668caf42a5bbfe8bfad92a6"
+      }
+    }
+  ],
+  "imageNames": [
+    "2be32f51-0914-4c76-82af-6fcb0aebf521.webp",
+    "e0f6fed9-5d28-40fc-8847-90cd0ac549e9.webp",
+    "d47e77f3-80b9-428b-afce-d0ebe0fac562.jpg"
+  ],
+  "__t": "Cloth",
+  "sizes": []
+},
+{
+  "_id": {
+    "$oid": "665dfa0b90fe72c455651dc6"
+  },
+  "categoryId": {
+    "$oid": "6627f15274bb4c6b31126e70"
+  },
+  "subCategoryId": {
+    "$oid": "663a3b2ff4614de90754cc0d"
+  },
+  "audienceId": {
+    "$oid": "6637f1cf8f24af95297f49d8"
+  },
+  "brandId": {
+    "$oid": "663960edb85280f81e73c2f9"
+  },
+  "name": "Nike Solo Swoosh",
+  "price": 190,
+  "discount": 15,
+  "description": "Made from heavyweight cotton in a roomy fit for easy movement and layering, this short-sleeve Nike top from our Solo Swoosh collection ups any outfit with its premium construction and Swoosh embroidery on the front. The enzyme wash softens the feel and makes it look like you've been saving it for years.",
+  "stock": [
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666709e3b527e0041dd8b18b"
+      },
+      "quantity": 10,
+      "_id": {
+        "$oid": "666719e0b527e0041dd8bad1"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666709e5b527e0041dd8b18d"
+      },
+      "quantity": 6,
+      "_id": {
+        "$oid": "666719e0b527e0041dd8bad2"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666709eab527e0041dd8b191"
+      },
+      "quantity": 8,
+      "_id": {
+        "$oid": "666719e0b527e0041dd8bad3"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709e3b527e0041dd8b18b"
+      },
+      "quantity": 9,
+      "_id": {
+        "$oid": "666719e0b527e0041dd8bad4"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709e5b527e0041dd8b18d"
+      },
+      "quantity": 8,
+      "_id": {
+        "$oid": "666719e0b527e0041dd8bad5"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709f1b527e0041dd8b195"
+      },
+      "quantity": 6,
+      "_id": {
+        "$oid": "666719e0b527e0041dd8bad6"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709e7b527e0041dd8b18f"
+      },
+      "quantity": 14,
+      "_id": {
+        "$oid": "666719e0b527e0041dd8bad7"
+      }
+    }
+  ],
+  "imageNames": [
+    "cb83b2ec-ca3f-40e0-aa88-95eaf0e41b98.jpeg",
+    "af2fb4b2-f362-4451-b8d5-e9f40a17f825.png",
+    "e309708d-56d8-4231-9e6f-a1f9e92ebf9c.png",
+    "9531c970-8290-4774-a7b2-0c0c1ad87962.png"
+  ],
+  "__t": "Cloth",
+  "sizes": []
+},
+{
+  "_id": {
+    "$oid": "665dfb4a90fe72c45565213e"
+  },
+  "categoryId": {
+    "$oid": "6627f15274bb4c6b31126e70"
+  },
+  "subCategoryId": {
+    "$oid": "663a3b2ff4614de90754cc0d"
+  },
+  "audienceId": {
+    "$oid": "6637f1cf8f24af95297f49d8"
+  },
+  "brandId": {
+    "$oid": "663960edb85280f81e73c2f9"
+  },
+  "name": "Kevin Durant",
+  "price": 180,
+  "discount": 10,
+  "description": "Our KD signature apparel collection celebrates the next generation of do-it-all athletes with pieces you can wear anywhere. This relaxed-fit tee is made from soft midweight cotton. The graphics feature the official stamp of approval from Easy Money.",
+  "stock": [
+    {
+      "color": {
+        "$oid": "6627fa1b87e562d7c54ae912"
+      },
+      "size": {
+        "$oid": "666709e5b527e0041dd8b18d"
+      },
+      "quantity": 10,
+      "_id": {
+        "$oid": "666719fdb527e0041dd8bb7d"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa1b87e562d7c54ae912"
+      },
+      "size": {
+        "$oid": "666709eab527e0041dd8b191"
+      },
+      "quantity": 9,
+      "_id": {
+        "$oid": "666719fdb527e0041dd8bb7e"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709f1b527e0041dd8b195"
+      },
+      "quantity": 8,
+      "_id": {
+        "$oid": "666719fdb527e0041dd8bb7f"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709eeb527e0041dd8b193"
+      },
+      "quantity": 8,
+      "_id": {
+        "$oid": "666719fdb527e0041dd8bb80"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709e7b527e0041dd8b18f"
+      },
+      "quantity": 7,
+      "_id": {
+        "$oid": "666719fdb527e0041dd8bb81"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666709e3b527e0041dd8b18b"
+      },
+      "quantity": 9,
+      "_id": {
+        "$oid": "666719fdb527e0041dd8bb82"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666709e5b527e0041dd8b18d"
+      },
+      "quantity": 11,
+      "_id": {
+        "$oid": "666719fdb527e0041dd8bb83"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666709eab527e0041dd8b191"
+      },
+      "quantity": 6,
+      "_id": {
+        "$oid": "666719fdb527e0041dd8bb84"
+      }
+    }
+  ],
+  "imageNames": [
+    "195136e8-6685-47ec-b354-2072687cfe03.png",
+    "f008939d-fa6a-48aa-9c1c-aebf2b955aaa.png",
+    "e8ca0748-971e-45dc-8241-8a85b68eed04.png"
+  ],
+  "__t": "Cloth",
+  "sizes": []
+},
+{
+  "_id": {
+    "$oid": "665dfbf490fe72c455652252"
+  },
+  "categoryId": {
+    "$oid": "6627f15274bb4c6b31126e70"
+  },
+  "subCategoryId": {
+    "$oid": "663a3b2ff4614de90754cc0d"
+  },
+  "audienceId": {
+    "$oid": "6637f1cf8f24af95297f49d8"
+  },
+  "brandId": {
+    "$oid": "663960fbb85280f81e73c2fb"
+  },
+  "name": "Jordan Flight Essentials",
+  "price": 190,
+  "discount": 15,
+  "description": "Soft cotton, tonal graphics and an all-over wash? Don't be afraid to snag this essential in multiple colours.",
+  "stock": [
+    {
+      "color": {
+        "$oid": "6627fa1b87e562d7c54ae912"
+      },
+      "size": {
+        "$oid": "666709eab527e0041dd8b191"
+      },
+      "quantity": 10,
+      "_id": {
+        "$oid": "66671a1db527e0041dd8bc32"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa1b87e562d7c54ae912"
+      },
+      "size": {
+        "$oid": "666709eeb527e0041dd8b193"
+      },
+      "quantity": 12,
+      "_id": {
+        "$oid": "66671a1db527e0041dd8bc33"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa1b87e562d7c54ae912"
+      },
+      "size": {
+        "$oid": "666709f1b527e0041dd8b195"
+      },
+      "quantity": 5,
+      "_id": {
+        "$oid": "66671a1db527e0041dd8bc34"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709e5b527e0041dd8b18d"
+      },
+      "quantity": 12,
+      "_id": {
+        "$oid": "66671a1db527e0041dd8bc35"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709e7b527e0041dd8b18f"
+      },
+      "quantity": 12,
+      "_id": {
+        "$oid": "66671a1db527e0041dd8bc36"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709eab527e0041dd8b191"
+      },
+      "quantity": 5,
+      "_id": {
+        "$oid": "66671a1db527e0041dd8bc37"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666709e3b527e0041dd8b18b"
+      },
+      "quantity": 10,
+      "_id": {
+        "$oid": "66671a1db527e0041dd8bc38"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666709e5b527e0041dd8b18d"
+      },
+      "quantity": 12,
+      "_id": {
+        "$oid": "66671a1db527e0041dd8bc39"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666709e7b527e0041dd8b18f"
+      },
+      "quantity": 8,
+      "_id": {
+        "$oid": "66671a1db527e0041dd8bc3a"
+      }
+    }
+  ],
+  "imageNames": [
+    "face5a89-c515-4baf-8f92-15bf938f2f97.png",
+    "91083210-8645-4960-b462-82de2203284f.png",
+    "2ce584e3-a1d3-452f-b4f7-e9d8aa597212.jpeg",
+    "58d9ee73-e854-410e-aabf-21a4c9c42cc2.png"
+  ],
+  "__t": "Cloth",
+  "sizes": []
+},
+{
+  "_id": {
+    "$oid": "665dfcab90fe72c4556524d1"
+  },
+  "categoryId": {
+    "$oid": "6627f15274bb4c6b31126e70"
+  },
+  "subCategoryId": {
+    "$oid": "663a3b36f4614de90754cc0f"
+  },
+  "audienceId": {
+    "$oid": "6637f1cf8f24af95297f49d8"
+  },
+  "brandId": {
+    "$oid": "663960edb85280f81e73c2f9"
+  },
+  "name": "Nike Sportswear Club",
+  "price": 150,
+  "discount": 10,
+  "description": "Made from soft cotton jersey, the Nike Sportswear Shorts are perfect for all-day wear. And with an adjusted rise and a shorter inseam than previous versions, they're more comfortable than ever.",
+  "stock": [
+    {
+      "color": {
+        "$oid": "6627fa1b87e562d7c54ae912"
+      },
+      "size": {
+        "$oid": "666709e5b527e0041dd8b18d"
+      },
+      "quantity": 12,
+      "_id": {
+        "$oid": "66671a3db527e0041dd8bce8"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa1b87e562d7c54ae912"
+      },
+      "size": {
+        "$oid": "666709e7b527e0041dd8b18f"
+      },
+      "quantity": 5,
+      "_id": {
+        "$oid": "66671a3db527e0041dd8bce9"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa1b87e562d7c54ae912"
+      },
+      "size": {
+        "$oid": "666709eab527e0041dd8b191"
+      },
+      "quantity": 7,
+      "_id": {
+        "$oid": "66671a3db527e0041dd8bcea"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa1b87e562d7c54ae912"
+      },
+      "size": {
+        "$oid": "666709eeb527e0041dd8b193"
+      },
+      "quantity": 9,
+      "_id": {
+        "$oid": "66671a3db527e0041dd8bceb"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709e3b527e0041dd8b18b"
+      },
+      "quantity": 12,
+      "_id": {
+        "$oid": "66671a3db527e0041dd8bcec"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709e5b527e0041dd8b18d"
+      },
+      "quantity": 4,
+      "_id": {
+        "$oid": "66671a3db527e0041dd8bced"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709e7b527e0041dd8b18f"
+      },
+      "quantity": 7,
+      "_id": {
+        "$oid": "66671a3db527e0041dd8bcee"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709f1b527e0041dd8b195"
+      },
+      "quantity": 11,
+      "_id": {
+        "$oid": "66671a3db527e0041dd8bcef"
+      }
+    }
+  ],
+  "imageNames": [
+    "9c44eae7-7347-4878-9408-29bd6e86d4bd.png",
+    "6f487bcf-c574-425b-8c02-7084ed51dd0e.png",
+    "c0c22c46-b7f4-41d2-855a-bc1c23900e21.png",
+    "ca5cb5df-b765-40db-8429-49b34e50f91a.jpeg"
+  ],
+  "__t": "Cloth",
+  "sizes": []
+},
+{
+  "_id": {
+    "$oid": "665e051890fe72c45565319f"
+  },
+  "categoryId": {
+    "$oid": "6627f18a74bb4c6b31126e72"
+  },
+  "subCategoryId": {
+    "$oid": "663a3a95f4614de90754cc07"
+  },
+  "audienceId": {
+    "$oid": "6637f1cf8f24af95297f49d8"
+  },
+  "brandId": {
+    "$oid": "663960edb85280f81e73c2f9"
+  },
+  "name": "Nike Invincible 3",
+  "price": 700,
+  "discount": 5,
+  "description": "Maximum cushioning provides our most comfortable ride for everyday runs. Experience a breathable Flyknit upper and the robust platform of lightweight ZoomX foam that softens impact. Plus, the midsole of this model is wider and taller than the last for even more cushioned comfort.",
+  "stock": [
+    {
+      "color": {
+        "$oid": "665dff8190fe72c4556529aa"
+      },
+      "size": {
+        "$oid": "66357987af880da8f7bd6608"
+      },
+      "quantity": 11,
+      "_id": {
+        "$oid": "665e059b90fe72c455653743"
+      }
+    },
+    {
+      "color": {
+        "$oid": "665dff8190fe72c4556529aa"
+      },
+      "size": {
+        "$oid": "6635798aaf880da8f7bd660a"
+      },
+      "quantity": 11,
+      "_id": {
+        "$oid": "665e059b90fe72c455653744"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "6635798caf880da8f7bd660c"
+      },
+      "quantity": 12,
+      "_id": {
+        "$oid": "665e059b90fe72c455653745"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "6635798eaf880da8f7bd660e"
+      },
+      "quantity": 15,
+      "_id": {
+        "$oid": "665e059b90fe72c455653746"
+      }
+    },
+    {
+      "color": {
+        "$oid": "665dfff090fe72c455652b18"
+      },
+      "size": {
+        "$oid": "6635798caf880da8f7bd660c"
+      },
+      "quantity": 10,
+      "_id": {
+        "$oid": "665e059b90fe72c455653747"
+      }
+    },
+    {
+      "color": {
+        "$oid": "665dfff090fe72c455652b18"
+      },
+      "size": {
+        "$oid": "66357998af880da8f7bd6610"
+      },
+      "quantity": 2,
+      "_id": {
+        "$oid": "665e059b90fe72c455653748"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "66357998af880da8f7bd6610"
+      },
+      "quantity": 11,
+      "_id": {
+        "$oid": "665e059b90fe72c455653749"
+      }
+    }
+  ],
+  "imageNames": [
+    "97669346-f610-41b4-9da9-79bfe04450b2.jpeg",
+    "c2fe2778-9fda-4671-bb50-f3dc7bf2df94.jpeg",
+    "0956dc80-154d-4050-b366-7a4ee2c30d58.jpeg",
+    "28a29b75-beb2-4b41-a8be-a18ef0e2943a.png"
+  ],
+  "__t": "Shoe",
+  "sizes": []
+},
+{
+  "_id": {
+    "$oid": "665e31a790fe72c4556545a2"
+  },
+  "categoryId": {
+    "$oid": "6627f18a74bb4c6b31126e72"
+  },
+  "subCategoryId": {
+    "$oid": "663a3a95f4614de90754cc07"
+  },
+  "audienceId": {
+    "$oid": "6637f1ea8f24af95297f49da"
+  },
+  "brandId": {
+    "$oid": "663960edb85280f81e73c2f9"
+  },
+  "name": "Running Shoes",
+  "price": 250,
+  "discount": 20,
+  "description": "Amazing Running Shoes.",
+  "stock": [
+    {
+      "color": {
+        "$oid": "6627fa1b87e562d7c54ae912"
+      },
+      "size": {
+        "$oid": "66357987af880da8f7bd6608"
+      },
+      "quantity": 11,
+      "_id": {
+        "$oid": "666abcec480cac9ff76dbcee"
+      }
+    },
+    {
+      "color": {
+        "$oid": "665dffbe90fe72c455652a61"
+      },
+      "size": {
+        "$oid": "6635798aaf880da8f7bd660a"
+      },
+      "quantity": 9,
+      "_id": {
+        "$oid": "666abcec480cac9ff76dbcef"
+      }
+    }
+  ],
+  "imageNames": [
+    "50e062f6-0f5e-4e79-94c2-b187fd56fbb0.png",
+    "967cb2fe-a589-465a-a454-ea8a522210f8.jpeg",
+    "63bb6251-3b2f-4286-84ab-bf8c34583b34.png"
+  ],
+  "__t": "Shoe",
+  "sizes": []
+},
+{
+  "_id": {
+    "$oid": "6668775c0d57942463952dac"
+  },
+  "categoryId": {
+    "$oid": "6627f18a74bb4c6b31126e72"
+  },
+  "subCategoryId": {
+    "$oid": "663a3ad0f4614de90754cc09"
+  },
+  "audienceId": {
+    "$oid": "6637f1cf8f24af95297f49d8"
+  },
+  "brandId": {
+    "$oid": "66453ec7c2a6d398bf2abe2b"
+  },
+  "name": "Reebok Men's Athletic Work Shoe",
+  "price": 270,
+  "discount": 5,
+  "description": "Reebok Men's Athletic Work Shoe",
+  "stock": [
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "66357998af880da8f7bd6610"
+      },
+      "quantity": 12,
+      "_id": {
+        "$oid": "66689efe0d579424639558fa"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "6635798caf880da8f7bd660c"
+      },
+      "quantity": 10,
+      "_id": {
+        "$oid": "66689efe0d579424639558fb"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "6635798eaf880da8f7bd660e"
+      },
+      "quantity": 12,
+      "_id": {
+        "$oid": "66689efe0d579424639558fc"
+      }
+    }
+  ],
+  "imageNames": [
+    "7195286e-0d56-4705-8781-71f8553f4495.webp",
+    "52619e41-0614-4213-81ca-969c5d6d8c3e.webp",
+    "3f331ba9-3cde-4753-b818-8cfc94ff74b1.webp"
+  ],
+  "__t": "Shoe",
+  "sizes": []
+},
+{
+  "_id": {
+    "$oid": "666ab721480cac9ff76db352"
+  },
+  "categoryId": {
+    "$oid": "6627f15274bb4c6b31126e70"
+  },
+  "subCategoryId": {
+    "$oid": "663a3b2ff4614de90754cc0d"
+  },
+  "audienceId": {
+    "$oid": "6637f1ea8f24af95297f49da"
+  },
+  "brandId": {
+    "$oid": "663960cdb85280f81e73c2f5"
+  },
+  "name": "OWN THE RUN TEE",
+  "price": 220,
+  "discount": 5,
+  "description": "Experience unmatched comfort and style with our 'Own the Run Tee'. Designed for the modern athlete, this tee is engineered to elevate your running experience. Crafted from lightweight and breathable fabric, it keeps you cool and dry even during intense workouts. The athletic fit offers freedom of movement, while the minimalist design ensures versatility for both training sessions and casual wear. ",
+  "stock": [
+    {
+      "color": {
+        "$oid": "6627fa1187e562d7c54ae910"
+      },
+      "size": {
+        "$oid": "666709e3b527e0041dd8b18b"
+      },
+      "quantity": 12,
+      "_id": {
+        "$oid": "666ab721480cac9ff76db353"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa1187e562d7c54ae910"
+      },
+      "size": {
+        "$oid": "666709e5b527e0041dd8b18d"
+      },
+      "quantity": 11,
+      "_id": {
+        "$oid": "666ab721480cac9ff76db354"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709e7b527e0041dd8b18f"
+      },
+      "quantity": 7,
+      "_id": {
+        "$oid": "666ab721480cac9ff76db355"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709eab527e0041dd8b191"
+      },
+      "quantity": 10,
+      "_id": {
+        "$oid": "666ab721480cac9ff76db356"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666709eeb527e0041dd8b193"
+      },
+      "quantity": 11,
+      "_id": {
+        "$oid": "666ab721480cac9ff76db357"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666709f1b527e0041dd8b195"
+      },
+      "quantity": 7,
+      "_id": {
+        "$oid": "666ab721480cac9ff76db358"
+      }
+    }
+  ],
+  "imageNames": [
+    "78bf1d31-62e0-48ae-9cea-4d0f2186b8d0.avif",
+    "3eae0361-14da-40b4-becb-0df25c209826.avif",
+    "d8a997b1-7e64-4605-99ef-2779c051228a.avif"
+  ],
+  "__t": "Cloth",
+  "sizes": []
+},
+{
+  "_id": {
+    "$oid": "666ab805480cac9ff76db55a"
+  },
+  "categoryId": {
+    "$oid": "6627f15274bb4c6b31126e70"
+  },
+  "subCategoryId": {
+    "$oid": "663a3b2ff4614de90754cc0d"
+  },
+  "audienceId": {
+    "$oid": "6637f1ea8f24af95297f49da"
+  },
+  "brandId": {
+    "$oid": "663960cdb85280f81e73c2f5"
+  },
+  "name": "ADICOLOR ESSENTIALS TEE",
+  "price": 150,
+  "discount": 0,
+  "description": "Elevate your casual wardrobe with the Adicolor Essentials Tee. A timeless classic, this tee embodies effortless style and comfort. Crafted from soft and breathable cotton fabric, it ensures all-day wearability and a luxurious feel against the skin. The iconic Adidas logo on the chest adds a touch of sporty flair, while the versatile design makes it perfect for layering or wearing solo. Whether you're hitting the gym or running errands, the Adicolor Essentials Tee is a must-have staple for any wardrobe.",
+  "stock": [
+    {
+      "color": {
+        "$oid": "665dffbe90fe72c455652a61"
+      },
+      "size": {
+        "$oid": "666709e3b527e0041dd8b18b"
+      },
+      "quantity": 12,
+      "_id": {
+        "$oid": "666ab805480cac9ff76db55b"
+      }
+    },
+    {
+      "color": {
+        "$oid": "665dffbe90fe72c455652a61"
+      },
+      "size": {
+        "$oid": "666709e5b527e0041dd8b18d"
+      },
+      "quantity": 8,
+      "_id": {
+        "$oid": "666ab805480cac9ff76db55c"
+      }
+    },
+    {
+      "color": {
+        "$oid": "665dffbe90fe72c455652a61"
+      },
+      "size": {
+        "$oid": "666709e7b527e0041dd8b18f"
+      },
+      "quantity": 8,
+      "_id": {
+        "$oid": "666ab805480cac9ff76db55d"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666709f1b527e0041dd8b195"
+      },
+      "quantity": 11,
+      "_id": {
+        "$oid": "666ab805480cac9ff76db55e"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666709eeb527e0041dd8b193"
+      },
+      "quantity": 3,
+      "_id": {
+        "$oid": "666ab805480cac9ff76db55f"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666709e7b527e0041dd8b18f"
+      },
+      "quantity": 7,
+      "_id": {
+        "$oid": "666ab805480cac9ff76db560"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709e7b527e0041dd8b18f"
+      },
+      "quantity": 11,
+      "_id": {
+        "$oid": "666ab805480cac9ff76db561"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709e3b527e0041dd8b18b"
+      },
+      "quantity": 7,
+      "_id": {
+        "$oid": "666ab805480cac9ff76db562"
+      }
+    }
+  ],
+  "imageNames": [
+    "2f797560-cb3e-4b44-9a35-3607786a20ed.avif",
+    "ab193c99-01c9-4554-be88-f023d3c194d3.avif",
+    "ccdf0e2e-944b-4a91-9581-21740410d429.avif",
+    "33d1648f-8a9d-4173-9953-f3432ceb5fce.avif"
+  ],
+  "__t": "Cloth",
+  "sizes": []
+},
+{
+  "_id": {
+    "$oid": "666ab8e9480cac9ff76db675"
+  },
+  "categoryId": {
+    "$oid": "6627f15274bb4c6b31126e70"
+  },
+  "subCategoryId": {
+    "$oid": "663a3b36f4614de90754cc0f"
+  },
+  "audienceId": {
+    "$oid": "6637f1ea8f24af95297f49da"
+  },
+  "brandId": {
+    "$oid": "663960cdb85280f81e73c2f5"
+  },
+  "name": "OWN THE RUN SHORTS",
+  "price": 190,
+  "discount": 5,
+  "description": " ChatGPT Introducing our Own the Run Shorts, the ultimate fusion of performance and style for your active lifestyle. Engineered with advanced moisture-wicking technology, these shorts keep you cool and dry during even the most intense workouts. The lightweight and breathable fabric provide maximum comfort, while the elastic waistband with drawcord ensures a secure fit.",
+  "stock": [
+    {
+      "color": {
+        "$oid": "665dff8190fe72c4556529aa"
+      },
+      "size": {
+        "$oid": "666709e3b527e0041dd8b18b"
+      },
+      "quantity": 11,
+      "_id": {
+        "$oid": "666ab8e9480cac9ff76db676"
+      }
+    },
+    {
+      "color": {
+        "$oid": "665dff8190fe72c4556529aa"
+      },
+      "size": {
+        "$oid": "666709e5b527e0041dd8b18d"
+      },
+      "quantity": 12,
+      "_id": {
+        "$oid": "666ab8e9480cac9ff76db677"
+      }
+    },
+    {
+      "color": {
+        "$oid": "665dff8190fe72c4556529aa"
+      },
+      "size": {
+        "$oid": "666709e7b527e0041dd8b18f"
+      },
+      "quantity": 8,
+      "_id": {
+        "$oid": "666ab8e9480cac9ff76db678"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666709e5b527e0041dd8b18d"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "666ab8e9480cac9ff76db679"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666709e7b527e0041dd8b18f"
+      },
+      "quantity": 4,
+      "_id": {
+        "$oid": "666ab8e9480cac9ff76db67a"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709e7b527e0041dd8b18f"
+      },
+      "quantity": 11,
+      "_id": {
+        "$oid": "666ab8e9480cac9ff76db67b"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709eeb527e0041dd8b193"
+      },
+      "quantity": 12,
+      "_id": {
+        "$oid": "666ab8e9480cac9ff76db67c"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709f1b527e0041dd8b195"
+      },
+      "quantity": 11,
+      "_id": {
+        "$oid": "666ab8e9480cac9ff76db67d"
+      }
+    },
+    {
+      "color": {
+        "$oid": "665dffbe90fe72c455652a61"
+      },
+      "size": {
+        "$oid": "666709eab527e0041dd8b191"
+      },
+      "quantity": 11,
+      "_id": {
+        "$oid": "666ab8e9480cac9ff76db67e"
+      }
+    },
+    {
+      "color": {
+        "$oid": "665dffbe90fe72c455652a61"
+      },
+      "size": {
+        "$oid": "666709e3b527e0041dd8b18b"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "666ab8e9480cac9ff76db67f"
+      }
+    }
+  ],
+  "imageNames": [
+    "10154340-d114-45ce-a34c-b92829cd880e.avif",
+    "b333f1a2-bfe8-44aa-b214-ae90eb5642ca.avif",
+    "b31cd041-3671-423b-a0ad-e8d0997d921a.avif",
+    "c4b4ee30-28e9-4fb3-a0c0-641655573ba6.avif"
+  ],
+  "__t": "Cloth",
+  "sizes": []
+},
+{
+  "_id": {
+    "$oid": "666ab9a1480cac9ff76db6f0"
+  },
+  "categoryId": {
+    "$oid": "6627f15274bb4c6b31126e70"
+  },
+  "subCategoryId": {
+    "$oid": "666879350d579424639530f1"
+  },
+  "audienceId": {
+    "$oid": "6637f1ea8f24af95297f49da"
+  },
+  "brandId": {
+    "$oid": "663960cdb85280f81e73c2f5"
+  },
+  "name": "ALL SZN FLEECE LOOSE HOODIE",
+  "price": 220,
+  "discount": 12,
+  "description": "Introducing our All Season Fleece Loose Hoodie, designed to keep you cozy and stylish all year round. Crafted from premium fleece fabric, this hoodie offers unparalleled warmth and comfort without sacrificing style. The loose fit provides a relaxed silhouette, perfect for layering over your favorite tees or thermals.",
+  "stock": [
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709e3b527e0041dd8b18b"
+      },
+      "quantity": 11,
+      "_id": {
+        "$oid": "666ab9a1480cac9ff76db6f1"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709e5b527e0041dd8b18d"
+      },
+      "quantity": 11,
+      "_id": {
+        "$oid": "666ab9a1480cac9ff76db6f2"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709eab527e0041dd8b191"
+      },
+      "quantity": 8,
+      "_id": {
+        "$oid": "666ab9a1480cac9ff76db6f3"
+      }
+    },
+    {
+      "color": {
+        "$oid": "665dff8190fe72c4556529aa"
+      },
+      "size": {
+        "$oid": "666709eeb527e0041dd8b193"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "666ab9a1480cac9ff76db6f4"
+      }
+    },
+    {
+      "color": {
+        "$oid": "665dff8190fe72c4556529aa"
+      },
+      "size": {
+        "$oid": "666709eab527e0041dd8b191"
+      },
+      "quantity": 7,
+      "_id": {
+        "$oid": "666ab9a1480cac9ff76db6f5"
+      }
+    },
+    {
+      "color": {
+        "$oid": "665dff8190fe72c4556529aa"
+      },
+      "size": {
+        "$oid": "666709e7b527e0041dd8b18f"
+      },
+      "quantity": 9,
+      "_id": {
+        "$oid": "666ab9a1480cac9ff76db6f6"
+      }
+    },
+    {
+      "color": {
+        "$oid": "665dffbe90fe72c455652a61"
+      },
+      "size": {
+        "$oid": "666709eeb527e0041dd8b193"
+      },
+      "quantity": 11,
+      "_id": {
+        "$oid": "666ab9a1480cac9ff76db6f7"
+      }
+    },
+    {
+      "color": {
+        "$oid": "665dffbe90fe72c455652a61"
+      },
+      "size": {
+        "$oid": "666709e5b527e0041dd8b18d"
+      },
+      "quantity": 7,
+      "_id": {
+        "$oid": "666ab9a1480cac9ff76db6f8"
+      }
+    }
+  ],
+  "imageNames": [
+    "933fe1b3-a665-4932-9b08-d88e423bc74d.avif",
+    "c00134fe-6ed1-48e0-b56d-436652ebc28a.avif",
+    "2e965626-dd80-47dd-af2e-6bc9b7ad6d61.avif",
+    "413e853a-eb9d-4656-8b37-11dad3968d1c.avif"
+  ],
+  "__t": "Cloth",
+  "sizes": []
+},
+{
+  "_id": {
+    "$oid": "666abc28480cac9ff76dbbe7"
+  },
+  "categoryId": {
+    "$oid": "6627f34274bb4c6b31126e74"
+  },
+  "subCategoryId": {
+    "$oid": "663a3e69f4614de90754cc33"
+  },
+  "audienceId": {
+    "$oid": "6637f1cf8f24af95297f49d8"
+  },
+  "brandId": {
+    "$oid": "663960edb85280f81e73c2f9"
+  },
+  "name": "Nike Dri-FIT ADV Club",
+  "price": 120,
+  "discount": 5,
+  "description": "On the tennis courts to beyond, take up your favourite workouts in the Nike Club Cap. This unstructured mid-depth cap has advanced sweat-wicking fabric to help you feel fresh all match long. Plus, it's super-breathable for when the action heats up. We also shortened the AeroBill to prevent any distractions when you're ready to serve up that next ace.",
+  "stock": [
+    {
+      "color": {
+        "$oid": "665dfff090fe72c455652b18"
+      },
+      "size": {
+        "$oid": "666721ffb527e0041dd8bee8"
+      },
+      "quantity": 10,
+      "_id": {
+        "$oid": "666abc28480cac9ff76dbbe8"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666721ffb527e0041dd8bee8"
+      },
+      "quantity": 10,
+      "_id": {
+        "$oid": "666abc28480cac9ff76dbbe9"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666721ffb527e0041dd8bee8"
+      },
+      "quantity": 10,
+      "_id": {
+        "$oid": "666abc28480cac9ff76dbbea"
+      }
+    }
+  ],
+  "imageNames": [
+    "ee0eace9-4e97-4558-a367-6a349cbd5b11.png",
+    "3fb12cad-efd4-46d5-88fc-77f67b94e992.png",
+    "e184c227-9228-4faf-9fe6-39c002cf1fd5.jpeg",
+    "b33ccf04-85b7-4c53-b0c1-7ba96089db92.jpeg"
+  ],
+  "__t": "Accessory",
+  "sizes": []
+},
+{
+  "_id": {
+    "$oid": "666abd37480cac9ff76dbd4d"
+  },
+  "categoryId": {
+    "$oid": "6627f18a74bb4c6b31126e72"
+  },
+  "subCategoryId": {
+    "$oid": "663a3a95f4614de90754cc07"
+  },
+  "audienceId": {
+    "$oid": "6637f1ea8f24af95297f49da"
+  },
+  "brandId": {
+    "$oid": "663960edb85280f81e73c2f9"
+  },
+  "name": "Nike Pegasus 41",
+  "price": 200,
+  "discount": 5,
+  "description": "Responsive cushioning in the Pegasus provides an energised ride for everyday road running. Experience lighter-weight energy return with dual Air Zoom units and a ReactX foam midsole. Plus, improved engineered mesh on the upper decreases weight and increases breathability.",
+  "stock": [
+    {
+      "color": {
+        "$oid": "665dffbe90fe72c455652a61"
+      },
+      "size": {
+        "$oid": "666877ab0d57942463952ed6"
+      },
+      "quantity": 11,
+      "_id": {
+        "$oid": "666abd37480cac9ff76dbd4e"
+      }
+    },
+    {
+      "color": {
+        "$oid": "665dffbe90fe72c455652a61"
+      },
+      "size": {
+        "$oid": "666877b10d57942463952edf"
+      },
+      "quantity": 11,
+      "_id": {
+        "$oid": "666abd37480cac9ff76dbd4f"
+      }
+    },
+    {
+      "color": {
+        "$oid": "665dffbe90fe72c455652a61"
+      },
+      "size": {
+        "$oid": "66357998af880da8f7bd6610"
+      },
+      "quantity": 8,
+      "_id": {
+        "$oid": "666abd37480cac9ff76dbd50"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666877e30d57942463952f60"
+      },
+      "quantity": 11,
+      "_id": {
+        "$oid": "666abd37480cac9ff76dbd51"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666877e60d57942463952f69"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "666abd37480cac9ff76dbd52"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666877b10d57942463952edf"
+      },
+      "quantity": 10,
+      "_id": {
+        "$oid": "666abd37480cac9ff76dbd53"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666877a10d57942463952ebe"
+      },
+      "quantity": 8,
+      "_id": {
+        "$oid": "666abd37480cac9ff76dbd54"
+      }
+    }
+  ],
+  "imageNames": [
+    "ab4c31cc-e10a-4df3-b27e-c24496926c78.png",
+    "1a5e0ce6-bf6b-4b56-8c78-24d37865f3ec.png",
+    "b9724230-dba6-4446-ba67-dc0c8067c3ba.png",
+    "f0dff043-02e1-414d-b75d-c2b1b09f72c9.png"
+  ],
+  "__t": "Shoe",
+  "sizes": []
+},
+{
+  "_id": {
+    "$oid": "666abe11480cac9ff76dbe6e"
+  },
+  "categoryId": {
+    "$oid": "6627f34274bb4c6b31126e74"
+  },
+  "subCategoryId": {
+    "$oid": "663a3e69f4614de90754cc33"
+  },
+  "audienceId": {
+    "$oid": "6637f1ea8f24af95297f49da"
+  },
+  "brandId": {
+    "$oid": "663960edb85280f81e73c2f9"
+  },
+  "name": "Nike Dri-FIT Ace",
+  "price": 100,
+  "discount": 10,
+  "description": "Keep the sun and sweat out of your eyes with our low-depth Nike Ace visor. This unstructured visor with a curved bill features stretchy fabric that will keep you cool and fresh during warm days on the court and the course.",
+  "stock": [
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709e7b527e0041dd8b18f"
+      },
+      "quantity": 10,
+      "_id": {
+        "$oid": "666abe11480cac9ff76dbe6f"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709eab527e0041dd8b191"
+      },
+      "quantity": 8,
+      "_id": {
+        "$oid": "666abe11480cac9ff76dbe70"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666709f1b527e0041dd8b195"
+      },
+      "quantity": 10,
+      "_id": {
+        "$oid": "666abe11480cac9ff76dbe71"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666709eab527e0041dd8b191"
+      },
+      "quantity": 8,
+      "_id": {
+        "$oid": "666abe11480cac9ff76dbe72"
+      }
+    }
+  ],
+  "imageNames": [
+    "eafb0755-5de8-43de-afb4-0261d8cb1e24.png",
+    "4c6e92d0-53b5-4931-a54e-09fbd0863292.png",
+    "b70b1c9a-9739-49d4-bb00-e4696309f725.png",
+    "a5104e87-a5b8-4d0d-a774-aac7d4b3c900.png"
+  ],
+  "__t": "Accessory",
+  "sizes": []
+},
+{
+  "_id": {
+    "$oid": "666abeb8480cac9ff76dbf69"
+  },
+  "categoryId": {
+    "$oid": "6627f15274bb4c6b31126e70"
+  },
+  "subCategoryId": {
+    "$oid": "663a3b2ff4614de90754cc0d"
+  },
+  "audienceId": {
+    "$oid": "6637f22e8f24af95297f49dc"
+  },
+  "brandId": {
+    "$oid": "663960edb85280f81e73c2f9"
+  },
+  "name": "Nike Sportswear",
+  "price": 150,
+  "discount": 0,
+  "description": "Proof that a classic can still be awesome. The Nike Sportswear tee is a staple in your weekly rotation, and the question is: how many colours do you want it in?",
+  "stock": [
+    {
+      "color": {
+        "$oid": "6627fa1187e562d7c54ae910"
+      },
+      "size": {
+        "$oid": "666709e3b527e0041dd8b18b"
+      },
+      "quantity": 11,
+      "_id": {
+        "$oid": "666abeb8480cac9ff76dbf6a"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa1187e562d7c54ae910"
+      },
+      "size": {
+        "$oid": "666709e7b527e0041dd8b18f"
+      },
+      "quantity": 11,
+      "_id": {
+        "$oid": "666abeb8480cac9ff76dbf6b"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666709eeb527e0041dd8b193"
+      },
+      "quantity": 8,
+      "_id": {
+        "$oid": "666abeb8480cac9ff76dbf6c"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666709eeb527e0041dd8b193"
+      },
+      "quantity": 10,
+      "_id": {
+        "$oid": "666abeb8480cac9ff76dbf6d"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3087e562d7c54ae916"
+      },
+      "size": {
+        "$oid": "666709f1b527e0041dd8b195"
+      },
+      "quantity": 7,
+      "_id": {
+        "$oid": "666abeb8480cac9ff76dbf6e"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709eab527e0041dd8b191"
+      },
+      "quantity": 5,
+      "_id": {
+        "$oid": "666abeb8480cac9ff76dbf6f"
+      }
+    },
+    {
+      "color": {
+        "$oid": "6627fa3a87e562d7c54ae918"
+      },
+      "size": {
+        "$oid": "666709e7b527e0041dd8b18f"
+      },
+      "quantity": 9,
+      "_id": {
+        "$oid": "666abeb8480cac9ff76dbf70"
+      }
+    }
+  ],
+  "imageNames": [
+    "d7313d60-b01e-46eb-95d7-99018db805b8.png",
+    "6a889f0b-044f-4aee-804c-74dd3154c656.png",
+    "0e588dd5-9d23-4b6e-aaf0-8c25219b6dab.jpeg",
+    "593626e2-c5fb-4aa0-9ad0-5d14612da11b.jpeg"
+  ],
+  "__t": "Cloth",
+  "sizes": []
+}]

@@ -1,0 +1,21 @@
+.AuthMenu {
+ display: flex;
+ align-items: center;
+}
+
+.user-info,
+.guest-info {
+ display: flex;
+ align-items: center;
+ color: black;
+}
+
+.menu-icon {
+ color: black;
+}
+
+.NavLink {
+ color: white;
+ margin-left: 10px;
+
+}

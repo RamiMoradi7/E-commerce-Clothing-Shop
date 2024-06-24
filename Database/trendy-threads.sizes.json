@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "66357983af880da8f7bd6606"
+  },
+  "name": "36",
+  "type": "ShoeSizeModel"
+},
+{
+  "_id": {
+    "$oid": "66357987af880da8f7bd6608"
+  },
+  "name": "36.5",
+  "type": "ShoeSizeModel"
+},
+{
+  "_id": {
+    "$oid": "6635798aaf880da8f7bd660a"
+  },
+  "name": "37",
+  "type": "ShoeSizeModel"
+},
+{
+  "_id": {
+    "$oid": "6635798caf880da8f7bd660c"
+  },
+  "name": "37.5",
+  "type": "ShoeSizeModel"
+},
+{
+  "_id": {
+    "$oid": "6635798eaf880da8f7bd660e"
+  },
+  "name": "38",
+  "type": "ShoeSizeModel"
+},
+{
+  "_id": {
+    "$oid": "66357998af880da8f7bd6610"
+  },
+  "name": "38.5",
+  "type": "ShoeSizeModel"
+},
+{
+  "_id": {
+    "$oid": "666709e3b527e0041dd8b18b"
+  },
+  "name": "xs",
+  "type": "ClothSizeModel"
+},
+{
+  "_id": {
+    "$oid": "666709e5b527e0041dd8b18d"
+  },
+  "name": "s",
+  "type": "ClothSizeModel"
+},
+{
+  "_id": {
+    "$oid": "666709e7b527e0041dd8b18f"
+  },
+  "name": "m",
+  "type": "ClothSizeModel"
+},
+{
+  "_id": {
+    "$oid": "666709eab527e0041dd8b191"
+  },
+  "name": "l",
+  "type": "ClothSizeModel"
+},
+{
+  "_id": {
+    "$oid": "666709eeb527e0041dd8b193"
+  },
+  "name": "xl",
+  "type": "ClothSizeModel"
+},
+{
+  "_id": {
+    "$oid": "666709f1b527e0041dd8b195"
+  },
+  "name": "xxl",
+  "type": "ClothSizeModel"
+},
+{
+  "_id": {
+    "$oid": "666709f6b527e0041dd8b197"
+  },
+  "name": "xxxl",
+  "type": "ClothSizeModel"
+},
+{
+  "_id": {
+    "$oid": "666721ffb527e0041dd8bee8"
+  },
+  "name": "One Size",
+  "type": "ClothSizeModel"
+},
+{
+  "_id": {
+    "$oid": "6668776c0d57942463952e23"
+  },
+  "name": "39",
+  "type": "ShoeSizeModel"
+},
+{
+  "_id": {
+    "$oid": "666877a10d57942463952ebe"
+  },
+  "name": "39.5",
+  "type": "ShoeSizeModel"
+},
+{
+  "_id": {
+    "$oid": "666877a70d57942463952ecd"
+  },
+  "name": "40",
+  "type": "ShoeSizeModel"
+},
+{
+  "_id": {
+    "$oid": "666877ab0d57942463952ed6"
+  },
+  "name": "40.5",
+  "type": "ShoeSizeModel"
+},
+{
+  "_id": {
+    "$oid": "666877b10d57942463952edf"
+  },
+  "name": "41",
+  "type": "ShoeSizeModel"
+},
+{
+  "_id": {
+    "$oid": "666877b50d57942463952ee8"
+  },
+  "name": "42",
+  "type": "ShoeSizeModel"
+},
+{
+  "_id": {
+    "$oid": "666877da0d57942463952f4e"
+  },
+  "name": "42.5",
+  "type": "ShoeSizeModel"
+},
+{
+  "_id": {
+    "$oid": "666877df0d57942463952f57"
+  },
+  "name": "43",
+  "type": "ShoeSizeModel"
+},
+{
+  "_id": {
+    "$oid": "666877e30d57942463952f60"
+  },
+  "name": "43.5",
+  "type": "ShoeSizeModel"
+},
+{
+  "_id": {
+    "$oid": "666877e60d57942463952f69"
+  },
+  "name": "44",
+  "type": "ShoeSizeModel"
+}]

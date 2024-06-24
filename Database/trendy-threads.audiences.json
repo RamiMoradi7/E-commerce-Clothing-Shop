@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "6637f1cf8f24af95297f49d8"
+  },
+  "name": "Men",
+  "description": "This audience category encompasses all products designed and marketed specifically for men. It includes clothing, footwear, accessories, and other items tailored to meet the preferences and needs of male consumers across various age groups and lifestyles. Products categorized under Men's"
+},
+{
+  "_id": {
+    "$oid": "6637f1ea8f24af95297f49da"
+  },
+  "name": "Women",
+  "description": " The Women's audience category encompasses products specifically designed and curated for female consumers. It includes a wide range of items such as clothing, footwear, accessories, beauty products, and more, tailored to meet the diverse needs and preferences of women across different age groups, lifestyles, and occasions."
+},
+{
+  "_id": {
+    "$oid": "6637f22e8f24af95297f49dc"
+  },
+  "name": "Children",
+  "description": "Explore a world of delightful and practical products designed specifically for the youngest members of our community. From playful toys to comfortable clothing and educational resources, our Children's collection offers a diverse range of options tailored to meet the needs and interests of kids of all ages."
+}]

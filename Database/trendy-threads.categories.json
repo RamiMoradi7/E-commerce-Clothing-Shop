@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "6627f15274bb4c6b31126e70"
+  },
+  "name": "Clothing",
+  "description": "Discover our stylish and comfortable collection of clothing for every occasion. From casual wear to elegant ensembles, our clothing range combines quality fabrics with fashionable designs to keep you looking and feeling your best. Explore our selection of tops, bottoms, dresses, and more, tailored to suit your personal style and preferences. Whether you're dressing up for a special event or keeping it casual for everyday wear, find the perfect pieces to express yourself with confidence.",
+  "imageName": "68d63a69-ecbb-4009-be40-7544306bef33.png",
+  "subCategories": [
+    {
+      "$oid": "663a3b2ff4614de90754cc0d"
+    },
+    {
+      "$oid": "663a3b36f4614de90754cc0f"
+    },
+    {
+      "$oid": "665385b1f1b9c189ee4615e8"
+    },
+    {
+      "$oid": "666879350d579424639530f1"
+    },
+    {
+      "$oid": "666879350d579424639530f3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6627f18a74bb4c6b31126e72"
+  },
+  "name": "Footwear",
+  "description": "Elevate your style and step out in confidence with our versatile range of footwear. From sleek sneakers to sophisticated heels, our footwear collection offers something for every occasion and preference. Designed for comfort and durability, each pair is crafted with quality materials and attention to detail. Whether you're heading to the office, hitting the gym, or enjoying a night out, find the perfect pair to complement your outfit and keep you moving with ease. Step into style and embrace every step with our curated selection of footwear.",
+  "imageName": "153f8d61-8de8-4d96-b382-f8ca0e1ef795.png",
+  "subCategories": [
+    {
+      "$oid": "663a3a95f4614de90754cc07"
+    },
+    {
+      "$oid": "663a3ad0f4614de90754cc09"
+    },
+    {
+      "$oid": "663a3ad7f4614de90754cc0b"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6627f34274bb4c6b31126e74"
+  },
+  "name": "Accessories and Equipment",
+  "description": "Accessorize your look and add the finishing touches to your outfit with our curated collection of accessories. From statement jewelry to practical bags and stylish hats, our accessories are designed to enhance your personal style and elevate any ensemble. Whether you're looking for the perfect piece to make a bold statement or a subtle accent to complete your look, our range offers versatility and sophistication.",
+  "imageName": "46ceb5ed-a319-4719-b179-d5040e0a93f2.png",
+  "subCategories": [
+    {
+      "$oid": "663a3b87f4614de90754cc13"
+    },
+    {
+      "$oid": "663a3b8df4614de90754cc15"
+    },
+    {
+      "$oid": "663a3e69f4614de90754cc33"
+    }
+  ]
+}]

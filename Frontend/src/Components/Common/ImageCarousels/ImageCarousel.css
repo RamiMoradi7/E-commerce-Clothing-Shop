@@ -1,0 +1,28 @@
+.image-carousel-root img {
+ width: 85%;
+ height: 395px;
+ object-fit: cover;
+}
+
+.carousel .control-dots {
+ position: absolute;
+ top: 10px;
+ width: 100%;
+ display: flex;
+ justify-content: center;
+}
+
+.carousel .control-dots .dot {
+ background: black;
+ margin: 0 5px;
+}
+
+.carousel .carousel-status {
+ width: 20px;
+ margin-top: 5px;
+ margin-right: 5px;
+ border: 1px solid;
+ border-radius: 10px;
+ font-size: 12px;
+ color: black;
+}

@@ -1,0 +1,179 @@
+[{
+  "_id": {
+    "$oid": "666c98ee1b5ce7c9a4222c6c"
+  },
+  "customer": {
+    "name": "Rami Moradi",
+    "email": "Rami@gmail.com",
+    "phone": "0506070102",
+    "address": "Raanana Keren Hayesod 50"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "6653865df1b9c189ee461623"
+      },
+      "name": "Nike Sportswear Tech Fleece",
+      "stock": [
+        {
+          "stockId": "6668ca292a5bbfe8bfad9144",
+          "quantity": 1,
+          "color": "Blue",
+          "size": "xl",
+          "_id": {
+            "$oid": "666c98ee1b5ce7c9a4222c6e"
+          }
+        },
+        {
+          "stockId": "6668ca292a5bbfe8bfad9146",
+          "quantity": 1,
+          "color": "White",
+          "size": "m",
+          "_id": {
+            "$oid": "666c98ee1b5ce7c9a4222c6f"
+          }
+        }
+      ],
+      "productType": "Cloth",
+      "price": 150,
+      "imageUrls": [
+        "http://localhost:4000/api/products/images/cloth-images/fff1ce08-66a9-438e-adbd-2db66b091a11.png",
+        "http://localhost:4000/api/products/images/cloth-images/874ebb8d-c882-4606-8d4b-9bfaebd07f93.png",
+        "http://localhost:4000/api/products/images/cloth-images/08cb1901-60fb-4e28-85f5-082bfbc820eb.png"
+      ],
+      "_id": {
+        "$oid": "666c98ee1b5ce7c9a4222c6d"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "665e31a790fe72c4556545a2"
+      },
+      "name": "Running Shoes",
+      "stock": [
+        {
+          "stockId": "666abcec480cac9ff76dbcef",
+          "quantity": 1,
+          "color": "Lavender",
+          "size": "37",
+          "_id": {
+            "$oid": "666c98ee1b5ce7c9a4222c71"
+          }
+        }
+      ],
+      "productType": "Shoe",
+      "price": 250,
+      "imageUrls": [
+        "http://localhost:4000/api/products/images/shoe-images/50e062f6-0f5e-4e79-94c2-b187fd56fbb0.png",
+        "http://localhost:4000/api/products/images/shoe-images/967cb2fe-a589-465a-a454-ea8a522210f8.jpeg",
+        "http://localhost:4000/api/products/images/shoe-images/63bb6251-3b2f-4286-84ab-bf8c34583b34.png"
+      ],
+      "_id": {
+        "$oid": "666c98ee1b5ce7c9a4222c70"
+      }
+    }
+  ],
+  "subtotal": 550,
+  "tax": 17,
+  "shipping": 0,
+  "total": 550,
+  "paymentMethod": "Credit Card",
+  "shippingMethod": "Free-Above-400",
+  "orderStatus": "Created",
+  "orderDate": {
+    "$date": "2024-06-14T19:24:30.533Z"
+  },
+  "expectedDeliveryDate": {
+    "$date": "2024-06-21T19:24:01.517Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666f560f5d599abf288a15a6"
+  },
+  "customer": {
+    "name": "Rami Moradi",
+    "email": "Rami@gmail.com",
+    "phone": "0506070102",
+    "address": "Raanana Keren Hayesod 50"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "665dfa0b90fe72c455651dc6"
+      },
+      "name": "Nike Solo Swoosh",
+      "stock": [
+        {
+          "stockId": "666719e0b527e0041dd8bad4",
+          "quantity": 1,
+          "color": "Black",
+          "size": "xs",
+          "_id": {
+            "$oid": "666f560f5d599abf288a15a8"
+          }
+        },
+        {
+          "stockId": "666719e0b527e0041dd8bad5",
+          "quantity": 1,
+          "color": "Black",
+          "size": "s",
+          "_id": {
+            "$oid": "666f560f5d599abf288a15a9"
+          }
+        }
+      ],
+      "productType": "Cloth",
+      "price": 190,
+      "imageUrls": [
+        "http://localhost:4000/api/products/images/cloth-images/cb83b2ec-ca3f-40e0-aa88-95eaf0e41b98.jpeg",
+        "http://localhost:4000/api/products/images/cloth-images/af2fb4b2-f362-4451-b8d5-e9f40a17f825.png",
+        "http://localhost:4000/api/products/images/cloth-images/e309708d-56d8-4231-9e6f-a1f9e92ebf9c.png",
+        "http://localhost:4000/api/products/images/cloth-images/9531c970-8290-4774-a7b2-0c0c1ad87962.png"
+      ],
+      "_id": {
+        "$oid": "666f560f5d599abf288a15a7"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "665e31a790fe72c4556545a2"
+      },
+      "name": "Running Shoes",
+      "stock": [
+        {
+          "stockId": "666abcec480cac9ff76dbcef",
+          "quantity": 1,
+          "color": "Lavender",
+          "size": "37",
+          "_id": {
+            "$oid": "666f560f5d599abf288a15ab"
+          }
+        }
+      ],
+      "productType": "Shoe",
+      "price": 250,
+      "imageUrls": [
+        "http://localhost:4000/api/products/images/shoe-images/50e062f6-0f5e-4e79-94c2-b187fd56fbb0.png",
+        "http://localhost:4000/api/products/images/shoe-images/967cb2fe-a589-465a-a454-ea8a522210f8.jpeg",
+        "http://localhost:4000/api/products/images/shoe-images/63bb6251-3b2f-4286-84ab-bf8c34583b34.png"
+      ],
+      "_id": {
+        "$oid": "666f560f5d599abf288a15aa"
+      }
+    }
+  ],
+  "subtotal": 630,
+  "tax": 17,
+  "shipping": 0,
+  "total": 630,
+  "paymentMethod": "Credit Card",
+  "shippingMethod": "Free-Above-400",
+  "orderStatus": "Created",
+  "orderDate": {
+    "$date": "2024-06-16T21:13:18.529Z"
+  },
+  "expectedDeliveryDate": {
+    "$date": "2024-06-23T21:14:27.534Z"
+  }
+}]

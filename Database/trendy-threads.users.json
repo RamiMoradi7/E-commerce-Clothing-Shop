@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6636a76094bbe780bc943433"
+  },
+  "firstName": "Rami",
+  "lastName": "Moradi",
+  "email": "Rami@gmail.com",
+  "password": "2419db985c7c7f0156a93e91b1c07d1afc8f564f317a80bc7168812106e2e333f515e34b6fd5fe206f73dc5b3ca8d9ddc87be18e7c921d12fbe9dad38fe90de5",
+  "roleId": 1
+},
+{
+  "_id": {
+    "$oid": "664f845663674af923b06cac"
+  },
+  "firstName": "Ilana",
+  "lastName": "Moradi",
+  "email": "ilana@gmail.com",
+  "password": "57ba5fcc17a9315fa14d34e332677acf89bfe2e2019abc534237b87837980808553fe9e888102c4779b6850c7e21bd00c33afe9d0a6981c9f978d0ad44d7fcd5",
+  "roleId": 2
+},
+{
+  "_id": {
+    "$oid": "665880b497d6cc1b1452fa24"
+  },
+  "firstName": "Karin",
+  "lastName": "Mizrahi",
+  "email": "Karin@gmail.com",
+  "password": "61a7e91482575c0f46dde564c20d3a05330ce95d51e87f2a893486920f0603abca4a11a74fdc698d18ff6283c55631454c6f7f48d11a81fa39aa28b59074366e",
+  "roleId": 2
+}]

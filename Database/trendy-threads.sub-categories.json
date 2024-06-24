@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "663a3a95f4614de90754cc07"
+  },
+  "name": "Running-Shoes"
+},
+{
+  "_id": {
+    "$oid": "663a3ad0f4614de90754cc09"
+  },
+  "name": "Athletic-Shoes"
+},
+{
+  "_id": {
+    "$oid": "663a3ad7f4614de90754cc0b"
+  },
+  "name": "Basketball-Shoes"
+},
+{
+  "_id": {
+    "$oid": "663a3b2ff4614de90754cc0d"
+  },
+  "name": "Tops and T-Shirts"
+},
+{
+  "_id": {
+    "$oid": "663a3b36f4614de90754cc0f"
+  },
+  "name": "Shorts"
+},
+{
+  "_id": {
+    "$oid": "663a3b87f4614de90754cc13"
+  },
+  "name": "Neckwear"
+},
+{
+  "_id": {
+    "$oid": "663a3b8df4614de90754cc15"
+  },
+  "name": "Eyewear"
+},
+{
+  "_id": {
+    "$oid": "663a3e69f4614de90754cc33"
+  },
+  "name": "Headwear"
+},
+{
+  "_id": {
+    "$oid": "66428d6974fc63d13adb2e5c"
+  },
+  "name": "Outerwear"
+},
+{
+  "_id": {
+    "$oid": "66428d6974fc63d13adb2e5e"
+  },
+  "name": "Activewear"
+},
+{
+  "_id": {
+    "$oid": "66428d6974fc63d13adb2e60"
+  },
+  "name": "Swimwear"
+},
+{
+  "_id": {
+    "$oid": "66428d6974fc63d13adb2e62"
+  },
+  "name": "Sleepwear"
+},
+{
+  "_id": {
+    "$oid": "66428d6974fc63d13adb2e64"
+  },
+  "name": "Underwear"
+},
+{
+  "_id": {
+    "$oid": "665385b1f1b9c189ee4615e8"
+  },
+  "name": "Trousers and Tights"
+},
+{
+  "_id": {
+    "$oid": "666879350d579424639530f1"
+  },
+  "name": "Hoodies & Sweatshirts"
+},
+{
+  "_id": {
+    "$oid": "666879350d579424639530f3"
+  },
+  "name": "Tracksuits"
+}]

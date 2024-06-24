@@ -1,0 +1,21 @@
+.subcategories-container {
+ max-height: 250px;
+ border: 1px solid #ddd;
+ border-radius: 8px;
+ box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+ background-color: #fff;
+}
+
+.subcategory-item {
+ padding: 10px;
+ cursor: pointer;
+ transition: background-color 0.3s ease;
+}
+
+.subcategory-item:hover {
+ background-color: #f0f0f0;
+}
+
+.subcategory-item.active {
+ background-color: #e3f2fd;
+}
